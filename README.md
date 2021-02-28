@@ -27,7 +27,7 @@
 
 ```
 
-### [Live Site(Go to live site and shop)](https://main.diw46smwtfc46.amplifyapp.com/)
+### [Live Site(Go to live site and check your city weather reports)](https://main.diw46smwtfc46.amplifyapp.com/)
 
 ##### 1. User can select the options below available and fetch the Weather Details
 ##### 2. Developed Every Component from Scratch.
